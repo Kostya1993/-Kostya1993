@@ -1,6 +1,7 @@
 
 Hi there, I'm Konstantyn Drozd 👋
- Frontend Developer | React | JavaScript | TypeScript
+
+Junior Frontend Developer | React | JavaScript | TypeScript
 
 I am a passionate and motivated Junior Frontend Developer based in Killarney, County Kerry, Ireland. I recently completed intensive training at HTML Academy, where I built a strong foundation in modern web development technologies and best practices.
 
@@ -244,6 +245,9 @@ HTML & CSS Professional Course - HTML Academy (2024)
 
 •
 JavaScript Professional Course - HTML Academy (2024)
+
+•
+Advanced JavaScript Course - HTML Academy (2024)
 
 
 
